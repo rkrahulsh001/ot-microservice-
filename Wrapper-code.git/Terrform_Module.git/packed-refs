@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+81581758bce9e1bbc59076938e50fedb3fbfa2d3 refs/heads/AutoScaling
+c541ad28dd017c60852cbab6f2841cf140539e82 refs/heads/best_ec2
+8230799bcf7b53b57e1d7082b823a45706c48ed2 refs/heads/ec2_module
+b208f5900cd4b9c42416e531d7786c5a06250477 refs/heads/main
+0ab450ea2521a97cbf527cee27ab6839d888bc8f refs/heads/network-skeletn
+4835af0a8ca39162e713aa8593034ea5d682c7e0 refs/heads/network-skeleton
+f4d230be33887327339483e8c53025fa868ea280 refs/heads/security-group
+81581758bce9e1bbc59076938e50fedb3fbfa2d3 refs/pull/1/head
+4835af0a8ca39162e713aa8593034ea5d682c7e0 refs/pull/2/head
+8230799bcf7b53b57e1d7082b823a45706c48ed2 refs/pull/3/head
+d127e64e46329f3a26055998dd5d5ba1677f7281 refs/pull/3/merge
+f4d230be33887327339483e8c53025fa868ea280 refs/pull/4/head
+c541ad28dd017c60852cbab6f2841cf140539e82 refs/pull/5/head

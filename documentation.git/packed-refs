@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+2c27123c4bc97b8c2483eb00bae6ada8f7271740 refs/heads/kaif-test
+327e3c238fbabbd36acf60c6a5948b45247fa106 refs/heads/main
+8214b7ebca8193e9625461f55624346a1dbec577 refs/pull/1/head
+f0c3d140dd7e4c156be518ef42d9f6f737a00d70 refs/pull/2/head
+db08e05217d30b4a83794b85e6a73fa26719a5a4 refs/pull/3/head
+1e056b02360a017fb0c6e92a8ca9244bd78d1261 refs/pull/4/head
+9871254bbb182fd606b17abcf57089cdd78f23f6 refs/pull/5/head
+1aa2039abe27f24ce258bdc1ea32d4166dfc821c refs/pull/6/head
+2c27123c4bc97b8c2483eb00bae6ada8f7271740 refs/pull/7/head

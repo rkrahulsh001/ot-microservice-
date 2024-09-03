@@ -1,0 +1,24 @@
+# pack-refs with: peeled fully-peeled sorted 
+f59a45989b143aaec10435aa200bbe2d468bf76e refs/heads/Network-skeleton
+5c539fffebd85dd90c609e3cf190cf0002fb1e55 refs/heads/PostgreSQL-infra
+a67ec978a249d8602e707f1ed7c16869ca9710b6 refs/heads/Redis-infra
+2a6772891a16755d84d49ac2c139ce0c738d894a refs/heads/Scylla-infra
+6c31113cd62d47c97d5060d046955045a060457c refs/heads/attendance-infra
+667db9bb99064e724218e97fd95dc363d9dfc02a refs/heads/employee-infra
+59de794a43033a0f8981726b2fb2f299023055af refs/heads/frontend-infra
+d4aa34ee430ea592be8c68468bcf3e5b28602d63 refs/heads/main
+68f5525af614540e2d99d30fd6bec34925536617 refs/heads/salary-infra
+9b0d671ee3b80f9ab53cc4285419c9f8d5e2bcd8 refs/pull/1/head
+68f5525af614540e2d99d30fd6bec34925536617 refs/pull/10/head
+a67ec978a249d8602e707f1ed7c16869ca9710b6 refs/pull/11/head
+5c539fffebd85dd90c609e3cf190cf0002fb1e55 refs/pull/12/head
+716ae756a8feebd0965d058baaae4d273a0f4896 refs/pull/13/head
+307c87b006930b259f87c3794c971cf84c2cd683 refs/pull/14/head
+a17ffdd5ba0430332ad679550f9130854851b61a refs/pull/2/head
+f12d0a8de213e439d96eb4a1e3545c32191f5f8e refs/pull/3/head
+597a87229a0c7818f25ab80bdc40973b26778fe7 refs/pull/4/head
+1055f50dd749d90089f9857bb124b63ad7c9164d refs/pull/5/head
+667db9bb99064e724218e97fd95dc363d9dfc02a refs/pull/6/head
+8323049a5a52165495072f733c106e293d5f497f refs/pull/7/head
+6c31113cd62d47c97d5060d046955045a060457c refs/pull/8/head
+ac70aef60d433f82a518d3ae290fb97f428da8b8 refs/pull/9/head
